@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.dannyrlarsen.wordcount","l":"WC"}]
